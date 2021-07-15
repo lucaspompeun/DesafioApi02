@@ -27,7 +27,7 @@ O desenvolvimento se deu sob ASP.NET Core Web API 3.1, a escolha desta versão s
 - [x] Código fonte ASP.NET Core Web API
 - [x] Testes unitários utilizando-se do MSTest
 
-### Requisitos extrs
+### Requisitos extras
 - [x] Construção da aplicação utilizando Docker
 - [ ] Teste de integração da API / Pirâmide de testes
 - [x] Utilização do Swagger
