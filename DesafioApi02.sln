@@ -3,7 +3,9 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 16
 VisualStudioVersion = 16.0.31424.327
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DesafioApi02", "DesafioApi02\DesafioApi02.csproj", "{DEB50D69-F4C6-4814-8B20-3EC4D72E5D3B}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "DesafioApi02", "DesafioApi02\DesafioApi02.csproj", "{DEB50D69-F4C6-4814-8B20-3EC4D72E5D3B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DesafioApi02Test", "DesafioApi02Test\DesafioApi02Test.csproj", "{C9345875-7BD8-4CB6-B04A-D5D1FE9914FC}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -15,6 +17,10 @@ Global
 		{DEB50D69-F4C6-4814-8B20-3EC4D72E5D3B}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{DEB50D69-F4C6-4814-8B20-3EC4D72E5D3B}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{DEB50D69-F4C6-4814-8B20-3EC4D72E5D3B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C9345875-7BD8-4CB6-B04A-D5D1FE9914FC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C9345875-7BD8-4CB6-B04A-D5D1FE9914FC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C9345875-7BD8-4CB6-B04A-D5D1FE9914FC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C9345875-7BD8-4CB6-B04A-D5D1FE9914FC}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
